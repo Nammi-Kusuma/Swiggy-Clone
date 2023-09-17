@@ -178,6 +178,7 @@ span.text-in {
     margin-top: 29.35rem;
     background-color: #2b1e16;
     height: 395px;
+    width: 1350px;
     display: flex;
     justify-content: space-evenly;
 }
@@ -259,6 +260,7 @@ span.text-in {
 
 .footer {
     height: auto;
+    width: 1350px;
     background-color: black;
 }
 
