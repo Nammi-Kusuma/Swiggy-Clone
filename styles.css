@@ -19,6 +19,7 @@ body{
 
 .image {
     height: 4rem;
+    margin-left: 128px;
     background-size: cover;
     background-repeat: no-repeat;
     position:relative;
@@ -178,7 +179,7 @@ span.text-in {
     margin-top: 29.35rem;
     background-color: #2b1e16;
     height: 395px;
-    width: 1350px;
+    width: 1450px;
     display: flex;
     justify-content: space-evenly;
 }
@@ -260,7 +261,7 @@ span.text-in {
 
 .footer {
     height: auto;
-    width: 1350px;
+    width: 1450px;
     background-color: black;
 }
 
